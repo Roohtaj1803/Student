@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author sidhu376
  */
 public class Student {
-    
+    // declaration of classes
     private String name;
     private int ID;
     private String address;
